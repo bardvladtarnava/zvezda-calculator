@@ -30,8 +30,8 @@
     "id": "diamond",
     "name": "Кристалл",
     "src": "overlay-elements/diamond.png",
-    "x": 296,
-    "y": 1322,
+    "x": 609,
+    "y": 1194,
     "width": 453,
     "height": 420
   },
@@ -39,8 +39,8 @@
     "id": "money",
     "name": "Деньги",
     "src": "overlay-elements/money.png",
-    "x": 2666,
-    "y": 1296,
+    "x": 2601,
+    "y": 1176,
     "width": 425,
     "height": 431
   },
@@ -48,8 +48,8 @@
     "id": "personality",
     "name": "Личность",
     "src": "overlay-elements/personality.png",
-    "x": 580,
-    "y": 2062,
+    "x": 681,
+    "y": 1937,
     "width": 366,
     "height": 62
   },
@@ -57,8 +57,8 @@
     "id": "realization",
     "name": "Реализация",
     "src": "overlay-elements/realization.png",
-    "x": 2710,
-    "y": 2059,
+    "x": 2623,
+    "y": 1926,
     "width": 446,
     "height": 75
   },
@@ -66,8 +66,8 @@
     "id": "health_icon",
     "name": "Здоровье (иконка)",
     "src": "overlay-elements/health_icon.png",
-    "x": 644,
-    "y": 2574,
+    "x": 695,
+    "y": 2345,
     "width": 370,
     "height": 349
   },
@@ -75,8 +75,8 @@
     "id": "couple",
     "name": "Пара",
     "src": "overlay-elements/couple.png",
-    "x": 2551,
-    "y": 2626,
+    "x": 2467,
+    "y": 2433,
     "width": 348,
     "height": 598
   },
@@ -84,17 +84,17 @@
     "id": "heart",
     "name": "Сердце",
     "src": "overlay-elements/heart.png",
-    "x": 2840,
-    "y": 2692,
-    "width": 102,
-    "height": 80
+    "x": 2833,
+    "y": 2381,
+    "width": 162,
+    "height": 109
   },
   {
     "id": "health_label",
     "name": "Здоровье (подпись)",
     "src": "overlay-elements/health_label.png",
-    "x": 989,
-    "y": 3173,
+    "x": 1052,
+    "y": 2920,
     "width": 358,
     "height": 79
   },
@@ -102,8 +102,8 @@
     "id": "relations",
     "name": "Отношения",
     "src": "overlay-elements/relations.png",
-    "x": 2188,
-    "y": 3161,
+    "x": 2111,
+    "y": 2968,
     "width": 422,
     "height": 63
   },
@@ -111,8 +111,8 @@
     "id": "rings",
     "name": "Кольца",
     "src": "overlay-elements/rings.png",
-    "x": 2689,
-    "y": 2473,
+    "x": 2634,
+    "y": 2222,
     "width": 279,
     "height": 123
   }
