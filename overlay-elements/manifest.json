@@ -21,8 +21,8 @@
     "id": "family",
     "name": "Семья",
     "src": "overlay-elements/family.png",
-    "x": 2007,
-    "y": 864,
+    "x": 1947,
+    "y": 772,
     "width": 436,
     "height": 292
   },
@@ -66,8 +66,8 @@
     "id": "health_icon",
     "name": "Здоровье (иконка)",
     "src": "overlay-elements/health_icon.png",
-    "x": 695,
-    "y": 2345,
+    "x": 731,
+    "y": 2364,
     "width": 370,
     "height": 349
   },
@@ -75,8 +75,8 @@
     "id": "couple",
     "name": "Пара",
     "src": "overlay-elements/couple.png",
-    "x": 2467,
-    "y": 2433,
+    "x": 2486,
+    "y": 2366,
     "width": 348,
     "height": 598
   },
@@ -102,8 +102,8 @@
     "id": "relations",
     "name": "Отношения",
     "src": "overlay-elements/relations.png",
-    "x": 2111,
-    "y": 2968,
+    "x": 2128,
+    "y": 2903,
     "width": 422,
     "height": 63
   },
