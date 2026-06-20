@@ -75,9 +75,9 @@
     "id": "couple",
     "name": "Пара",
     "src": "overlay-elements/couple.png",
-    "x": 2486,
-    "y": 2366,
-    "width": 348,
+    "x": 2476,
+    "y": 2368,
+    "width": 288,
     "height": 598
   },
   {
@@ -102,7 +102,7 @@
     "id": "relations",
     "name": "Отношения",
     "src": "overlay-elements/relations.png",
-    "x": 2128,
+    "x": 2113,
     "y": 2903,
     "width": 422,
     "height": 63
